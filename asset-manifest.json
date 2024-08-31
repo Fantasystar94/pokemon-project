@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fantasystar94/pokemon-project/static/css/main.4406c47b.css",
+    "main.js": "/Fantasystar94/pokemon-project/static/js/main.f70d285b.js",
+    "static/js/453.ed3810f9.chunk.js": "/Fantasystar94/pokemon-project/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Fantasystar94/pokemon-project/index.html",
+    "main.4406c47b.css.map": "/Fantasystar94/pokemon-project/static/css/main.4406c47b.css.map",
+    "main.f70d285b.js.map": "/Fantasystar94/pokemon-project/static/js/main.f70d285b.js.map",
+    "453.ed3810f9.chunk.js.map": "/Fantasystar94/pokemon-project/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4406c47b.css",
+    "static/js/main.f70d285b.js"
+  ]
+}
